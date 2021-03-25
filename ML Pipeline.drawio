@@ -1,46 +1,32 @@
-<mxfile host="app.diagrams.net" modified="2021-02-20T15:01:47.777Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="Ovz_ygzYQ1IDl8AmZK1j" version="14.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-25T02:23:49.249Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="VHI_g92QLSvHK5Ow08pd" version="14.5.1" type="github">
   <diagram id="MQLa9rTfs9DPq_qzNOGw" name="Page-1">
     <mxGraphModel dx="1350" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="k-H5MF68WP2ViUxeIeqx-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="k-H5MF68WP2ViUxeIeqx-1" target="k-H5MF68WP2ViUxeIeqx-8" edge="1">
+        <mxCell id="k-H5MF68WP2ViUxeIeqx-28" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="280" y="150" width="480" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="zZ7qnG79HDBvIS2WACJA-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.493;entryY=1.04;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="k-H5MF68WP2ViUxeIeqx-1" target="PwBuhSoYDMCkzUN165OQ-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="k-H5MF68WP2ViUxeIeqx-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://logodownload.org/wp-content/uploads/2018/02/reddit-logo.png;" parent="1" vertex="1">
-          <mxGeometry x="20" y="280" width="232.4" height="80" as="geometry" />
+          <mxGeometry x="423.8" y="540" width="232.4" height="80" as="geometry" />
         </mxCell>
         <mxCell id="k-H5MF68WP2ViUxeIeqx-2" value="r/worldnews" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="96.19999999999999" y="366.5" width="80" height="20" as="geometry" />
+          <mxGeometry x="500" y="620" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="k-H5MF68WP2ViUxeIeqx-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="k-H5MF68WP2ViUxeIeqx-8" target="k-H5MF68WP2ViUxeIeqx-13" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="k-H5MF68WP2ViUxeIeqx-8" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.api_gateway;fillColor=#D9A741;gradientColor=none;" parent="1" vertex="1">
-          <mxGeometry x="326.75" y="273.5" width="76.5" height="93" as="geometry" />
-        </mxCell>
-        <mxCell id="k-H5MF68WP2ViUxeIeqx-9" value="API Gateway" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="320" y="380" width="90" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="k-H5MF68WP2ViUxeIeqx-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="k-H5MF68WP2ViUxeIeqx-13" target="k-H5MF68WP2ViUxeIeqx-18" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="k-H5MF68WP2ViUxeIeqx-13" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.lambda_function;fillColor=#F58534;gradientColor=none;" parent="1" vertex="1">
-          <mxGeometry x="500" y="284" width="69" height="72" as="geometry" />
-        </mxCell>
-        <mxCell id="k-H5MF68WP2ViUxeIeqx-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" parent="1" source="k-H5MF68WP2ViUxeIeqx-18" target="k-H5MF68WP2ViUxeIeqx-21" edge="1">
+        <mxCell id="k-H5MF68WP2ViUxeIeqx-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="800" y="320" />
-              <mxPoint x="800" y="229" />
-            </Array>
+            <mxPoint x="420" y="313" as="sourcePoint" />
+            <mxPoint x="500" y="313" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="k-H5MF68WP2ViUxeIeqx-27" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="k-H5MF68WP2ViUxeIeqx-18" target="k-H5MF68WP2ViUxeIeqx-24" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="k-H5MF68WP2ViUxeIeqx-18" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.mysql_db_instance;fillColor=#2E73B8;gradientColor=none;" parent="1" vertex="1">
-          <mxGeometry x="670" y="287.75" width="60" height="64.5" as="geometry" />
+        <mxCell id="k-H5MF68WP2ViUxeIeqx-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="zZ7qnG79HDBvIS2WACJA-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="569" y="320" as="sourcePoint" />
+            <mxPoint x="670" y="313.5999999999999" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="k-H5MF68WP2ViUxeIeqx-25" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="k-H5MF68WP2ViUxeIeqx-21" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -53,20 +39,47 @@
         <mxCell id="k-H5MF68WP2ViUxeIeqx-24" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.iconscout.com/icon/free/png-512/app-application-browser-internet-page-web-code-coding-window-27558.png;" parent="1" vertex="1">
           <mxGeometry x="858.8500000000001" y="366.5" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="k-H5MF68WP2ViUxeIeqx-28" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="280" y="150" width="480" height="280" as="geometry" />
-        </mxCell>
-        <mxCell id="k-H5MF68WP2ViUxeIeqx-29" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1200px-Amazon_Web_Services_Logo.svg.png;" parent="1" vertex="1">
-          <mxGeometry x="300" y="160" width="66.88" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="k-H5MF68WP2ViUxeIeqx-30" value="Analysis and ML" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="860" y="150" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="k-H5MF68WP2ViUxeIeqx-31" value="Web Application" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="858.86" y="466.5" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="PwBuhSoYDMCkzUN165OQ-1" value="Lambda Function" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="479.5" y="380" width="110" height="20" as="geometry" />
+        <mxCell id="PwBuhSoYDMCkzUN165OQ-1" value="Python script to collect&lt;br&gt;data from Reddit, clean it,&lt;br&gt;and insert into DB" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="465" y="356" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zZ7qnG79HDBvIS2WACJA-2" value="Server" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="150" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zZ7qnG79HDBvIS2WACJA-4" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://raw.githubusercontent.com/computingfoundation/gnu-linux-shell-scripting/images/logo.png;" vertex="1" parent="1">
+          <mxGeometry x="306.27" y="276.5" width="123.73" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="zZ7qnG79HDBvIS2WACJA-5" value="cron jub runs script&lt;br&gt;&amp;nbsp;every 6 hours" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="241" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zZ7qnG79HDBvIS2WACJA-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="zZ7qnG79HDBvIS2WACJA-6" target="zZ7qnG79HDBvIS2WACJA-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zZ7qnG79HDBvIS2WACJA-6" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png;" vertex="1" parent="1">
+          <mxGeometry x="500" y="273.5" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zZ7qnG79HDBvIS2WACJA-7" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.document;" vertex="1" parent="1">
+          <mxGeometry x="525" y="183.5" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zZ7qnG79HDBvIS2WACJA-11" value="logs for debugging" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="485" y="163.5" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zZ7qnG79HDBvIS2WACJA-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zZ7qnG79HDBvIS2WACJA-13" target="k-H5MF68WP2ViUxeIeqx-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zZ7qnG79HDBvIS2WACJA-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zZ7qnG79HDBvIS2WACJA-13" target="k-H5MF68WP2ViUxeIeqx-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zZ7qnG79HDBvIS2WACJA-13" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png;" vertex="1" parent="1">
+          <mxGeometry x="670" y="276" width="67.85" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="zZ7qnG79HDBvIS2WACJA-16" value="Postgresql" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="668.9300000000001" y="246" width="70" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
