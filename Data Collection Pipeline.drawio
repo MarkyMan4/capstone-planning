@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2021-03-25T02:23:49.249Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="VHI_g92QLSvHK5Ow08pd" version="14.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-24T19:38:12.311Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="Z8voBVEmJ_B8IPSmwB4W" version="14.6.6" type="github">
   <diagram id="MQLa9rTfs9DPq_qzNOGw" name="Page-1">
-    <mxGraphModel dx="1350" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1350" dy="1874" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="k-H5MF68WP2ViUxeIeqx-28" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="280" y="150" width="480" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="zZ7qnG79HDBvIS2WACJA-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.493;entryY=1.04;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="k-H5MF68WP2ViUxeIeqx-1" target="PwBuhSoYDMCkzUN165OQ-1">
+        <mxCell id="zZ7qnG79HDBvIS2WACJA-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.493;entryY=1.04;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="k-H5MF68WP2ViUxeIeqx-1" target="PwBuhSoYDMCkzUN165OQ-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="k-H5MF68WP2ViUxeIeqx-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://logodownload.org/wp-content/uploads/2018/02/reddit-logo.png;" parent="1" vertex="1">
@@ -48,38 +48,63 @@
         <mxCell id="PwBuhSoYDMCkzUN165OQ-1" value="Python script to collect&lt;br&gt;data from Reddit, clean it,&lt;br&gt;and insert into DB" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="465" y="356" width="150" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="zZ7qnG79HDBvIS2WACJA-2" value="Server" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="150" width="50" height="20" as="geometry" />
+        <mxCell id="zZ7qnG79HDBvIS2WACJA-2" value="Eucalyptus Server" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="280" y="150" width="110" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="zZ7qnG79HDBvIS2WACJA-4" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://raw.githubusercontent.com/computingfoundation/gnu-linux-shell-scripting/images/logo.png;" vertex="1" parent="1">
+        <mxCell id="zZ7qnG79HDBvIS2WACJA-4" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://raw.githubusercontent.com/computingfoundation/gnu-linux-shell-scripting/images/logo.png;" parent="1" vertex="1">
           <mxGeometry x="306.27" y="276.5" width="123.73" height="74" as="geometry" />
         </mxCell>
-        <mxCell id="zZ7qnG79HDBvIS2WACJA-5" value="cron jub runs script&lt;br&gt;&amp;nbsp;every 6 hours" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+        <mxCell id="zZ7qnG79HDBvIS2WACJA-5" value="cron jub runs script&lt;br&gt;&amp;nbsp;every 6 hours" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="310" y="241" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zZ7qnG79HDBvIS2WACJA-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="zZ7qnG79HDBvIS2WACJA-6" target="zZ7qnG79HDBvIS2WACJA-7">
+        <mxCell id="iNv3aZi9-Mlq0JNL0lum-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="zZ7qnG79HDBvIS2WACJA-6" target="zZ7qnG79HDBvIS2WACJA-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zZ7qnG79HDBvIS2WACJA-6" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png;" vertex="1" parent="1">
+        <mxCell id="iNv3aZi9-Mlq0JNL0lum-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="zZ7qnG79HDBvIS2WACJA-6" target="iNv3aZi9-Mlq0JNL0lum-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="575" y="274" />
+              <mxPoint x="575" y="-30" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iNv3aZi9-Mlq0JNL0lum-7" value="Copy articles,&lt;br&gt;invoke NLP script" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="iNv3aZi9-Mlq0JNL0lum-5">
+          <mxGeometry x="0.2083" y="-1" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zZ7qnG79HDBvIS2WACJA-6" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png;" parent="1" vertex="1">
           <mxGeometry x="500" y="273.5" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="zZ7qnG79HDBvIS2WACJA-7" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.document;" vertex="1" parent="1">
-          <mxGeometry x="525" y="183.5" width="30" height="40" as="geometry" />
+        <mxCell id="zZ7qnG79HDBvIS2WACJA-7" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.document;" parent="1" vertex="1">
+          <mxGeometry x="465" y="183.5" width="30" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="zZ7qnG79HDBvIS2WACJA-11" value="logs for debugging" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="485" y="163.5" width="110" height="20" as="geometry" />
+        <mxCell id="zZ7qnG79HDBvIS2WACJA-11" value="logs for debugging" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="425" y="163.5" width="110" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="zZ7qnG79HDBvIS2WACJA-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zZ7qnG79HDBvIS2WACJA-13" target="k-H5MF68WP2ViUxeIeqx-21">
+        <mxCell id="zZ7qnG79HDBvIS2WACJA-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="zZ7qnG79HDBvIS2WACJA-13" target="k-H5MF68WP2ViUxeIeqx-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zZ7qnG79HDBvIS2WACJA-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zZ7qnG79HDBvIS2WACJA-13" target="k-H5MF68WP2ViUxeIeqx-24">
+        <mxCell id="zZ7qnG79HDBvIS2WACJA-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="zZ7qnG79HDBvIS2WACJA-13" target="k-H5MF68WP2ViUxeIeqx-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zZ7qnG79HDBvIS2WACJA-13" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png;" vertex="1" parent="1">
+        <mxCell id="zZ7qnG79HDBvIS2WACJA-13" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png;" parent="1" vertex="1">
           <mxGeometry x="670" y="276" width="67.85" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="zZ7qnG79HDBvIS2WACJA-16" value="Postgresql" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+        <mxCell id="zZ7qnG79HDBvIS2WACJA-16" value="Postgresql" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="668.9300000000001" y="246" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iNv3aZi9-Mlq0JNL0lum-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="370" y="-120" width="270" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="iNv3aZi9-Mlq0JNL0lum-2" value="Compute Server" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="370" y="-120" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iNv3aZi9-Mlq0JNL0lum-3" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png;" vertex="1" parent="1">
+          <mxGeometry x="475" y="-70" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="iNv3aZi9-Mlq0JNL0lum-6" value="Perform NLP" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="480" y="-100" width="80" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
