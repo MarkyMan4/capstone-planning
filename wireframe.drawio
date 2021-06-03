@@ -1,5 +1,5 @@
-<mxfile host="app.diagrams.net" modified="2021-05-06T03:40:47.022Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="HLLax4FRnraD8bJuD7r0" version="14.6.10" type="github" pages="7">
-  <diagram id="aXJUb4aKQypB4lqtwEmE" name="Landing Page">
+<mxfile host="app.diagrams.net" modified="2021-06-03T23:41:04.954Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="0CHsiOe-4BAf_-VzrUXy" version="14.7.4" type="github" pages="7">
+  <diagram id="aXJUb4aKQypB4lqtwEmE" name="Home">
     <mxGraphModel dx="3050" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="rhBd624mLRm0xS8A3c2n-0" />
@@ -28,7 +28,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram name="Home" id="2cc2dc42-3aac-f2a9-1cec-7a8b7cbee084">
+  <diagram name="Articles" id="2cc2dc42-3aac-f2a9-1cec-7a8b7cbee084">
     <mxGraphModel dx="2450" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -147,16 +147,16 @@
         <mxCell id="yVq1fdi0xxMNWoty9Pup-2" value="Option 1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=17;spacingLeft=3;" parent="7026571954dc6520-1" vertex="1">
           <mxGeometry x="665" y="225" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_GZ6enN5nvqrwKjqQq8y-1" value="&lt;font style=&quot;font-size: 15px&quot;&gt;Publisher&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="7026571954dc6520-1">
+        <mxCell id="_GZ6enN5nvqrwKjqQq8y-1" value="&lt;font style=&quot;font-size: 15px&quot;&gt;Publisher&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="7026571954dc6520-1" vertex="1">
           <mxGeometry x="35" y="290" width="135" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="_GZ6enN5nvqrwKjqQq8y-2" value="Option 1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=17;spacingLeft=3;" vertex="1" parent="7026571954dc6520-1">
+        <mxCell id="_GZ6enN5nvqrwKjqQq8y-2" value="Option 1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=17;spacingLeft=3;" parent="7026571954dc6520-1" vertex="1">
           <mxGeometry x="185" y="285" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_GZ6enN5nvqrwKjqQq8y-3" value="&lt;font style=&quot;font-size: 15px&quot;&gt;Sentiment&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="7026571954dc6520-1">
+        <mxCell id="_GZ6enN5nvqrwKjqQq8y-3" value="&lt;font style=&quot;font-size: 15px&quot;&gt;Sentiment&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="7026571954dc6520-1" vertex="1">
           <mxGeometry x="35" y="345" width="135" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="_GZ6enN5nvqrwKjqQq8y-4" value="Option 1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=17;spacingLeft=3;" vertex="1" parent="7026571954dc6520-1">
+        <mxCell id="_GZ6enN5nvqrwKjqQq8y-4" value="Option 1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=17;spacingLeft=3;" parent="7026571954dc6520-1" vertex="1">
           <mxGeometry x="185" y="340" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
