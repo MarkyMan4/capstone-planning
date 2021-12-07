@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-07T01:32:36.498Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="RIbJ3xHWWPpSulofwAdJ" version="15.9.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-07T01:34:02.518Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="wJh_O6EfdLW6uRmS3LUu" version="15.9.1" type="github">
   <diagram id="yf8aGssuZuXpHagwg_7-" name="Page-1">
     <mxGraphModel dx="1975" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -10,17 +10,19 @@
         <mxCell id="dRalgheijcarPViAJHjW-20" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="100" y="120" width="680" height="168.75" as="geometry" />
         </mxCell>
-        <mxCell id="dRalgheijcarPViAJHjW-1" value="REST Endpoints" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="dRalgheijcarPViAJHjW-1" value="REST Endpoints (view)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="510" y="380" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dRalgheijcarPViAJHjW-36" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=classic;endFill=1;" parent="1" source="dRalgheijcarPViAJHjW-2" target="dRalgheijcarPViAJHjW-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dRalgheijcarPViAJHjW-42" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=classic;endFill=1;" parent="1" source="dRalgheijcarPViAJHjW-2" target="dRalgheijcarPViAJHjW-41" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="dRalgheijcarPViAJHjW-42" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=classic;endFill=1;" parent="1" source="dRalgheijcarPViAJHjW-2" target="dRalgheijcarPViAJHjW-37" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="570" y="540" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="dRalgheijcarPViAJHjW-2" value="Application Logic" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="510" y="460" width="120" height="40" as="geometry" />
+        <mxCell id="dRalgheijcarPViAJHjW-2" value="Application Logic (controller)" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="510" y="500" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dRalgheijcarPViAJHjW-3" value="Database" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="330" y="620" width="120" height="40" as="geometry" />
@@ -73,14 +75,8 @@
         <mxCell id="dRalgheijcarPViAJHjW-40" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;startArrow=classic;startFill=1;endArrow=classic;endFill=1;" parent="1" source="dRalgheijcarPViAJHjW-37" target="dRalgheijcarPViAJHjW-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dRalgheijcarPViAJHjW-43" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=classic;endFill=1;" parent="1" source="dRalgheijcarPViAJHjW-37" target="dRalgheijcarPViAJHjW-41" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="dRalgheijcarPViAJHjW-37" value="Model" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="510" y="620" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="dRalgheijcarPViAJHjW-41" value="Model Serializer" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="510" y="540" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CFswmux8SoO7e5pgBnTU-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="CFswmux8SoO7e5pgBnTU-2" target="dRalgheijcarPViAJHjW-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
