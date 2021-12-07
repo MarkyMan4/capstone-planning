@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-04T16:36:12.156Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="wHoUQcbGktEMKsT8uIbX" version="14.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-07T01:29:53.007Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="2PssujEWlDujRWG7qeLB" version="15.9.1" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="2200" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="2200" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -223,13 +223,13 @@
         <mxCell id="pVp8Zoh54Qk2tJpORpOQ-62" value="subjectivity double NOT NULL" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="pVp8Zoh54Qk2tJpORpOQ-60" vertex="1">
           <mxGeometry x="30" width="225" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="K3CqNqEmtaRJ24NyI_kE-1" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="pVp8Zoh54Qk2tJpORpOQ-50">
+        <mxCell id="K3CqNqEmtaRJ24NyI_kE-1" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="pVp8Zoh54Qk2tJpORpOQ-50" vertex="1">
           <mxGeometry y="150" width="255" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="K3CqNqEmtaRJ24NyI_kE-2" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" vertex="1" parent="K3CqNqEmtaRJ24NyI_kE-1">
+        <mxCell id="K3CqNqEmtaRJ24NyI_kE-2" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" parent="K3CqNqEmtaRJ24NyI_kE-1" vertex="1">
           <mxGeometry width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="K3CqNqEmtaRJ24NyI_kE-3" value="keywords varchar(200)" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="K3CqNqEmtaRJ24NyI_kE-1">
+        <mxCell id="K3CqNqEmtaRJ24NyI_kE-3" value="keywords varchar(200)" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="K3CqNqEmtaRJ24NyI_kE-1" vertex="1">
           <mxGeometry x="30" width="225" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pVp8Zoh54Qk2tJpORpOQ-91" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="pVp8Zoh54Qk2tJpORpOQ-50" vertex="1">
@@ -300,9 +300,6 @@
         </mxCell>
         <mxCell id="pVp8Zoh54Qk2tJpORpOQ-112" value="&lt;font style=&quot;font-size: 24px&quot;&gt;News NLP Database ER Diagram&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="235" y="40" width="380" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="pVp8Zoh54Qk2tJpORpOQ-113" value="&lt;b&gt;&lt;u&gt;Note&lt;/u&gt;&lt;/b&gt;: I may consider not storing the entire content of the article in the database. It would save space to just store the URL and retrieve the content of the article as needed. The downside of this approach is that I have to scrape the website of the published article each time the content is needed, so if the website goes down, the content won&#39;t work." style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
-          <mxGeometry x="-80" y="640" width="190" height="190" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
