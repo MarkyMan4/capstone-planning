@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-15T11:03:35.678Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="Erxn8eXktIjZlMy_q-ac" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-07T01:32:36.498Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="RIbJ3xHWWPpSulofwAdJ" version="15.9.1" type="github">
   <diagram id="yf8aGssuZuXpHagwg_7-" name="Page-1">
-    <mxGraphModel dx="1350" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1975" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -85,8 +85,24 @@
         <mxCell id="CFswmux8SoO7e5pgBnTU-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="CFswmux8SoO7e5pgBnTU-2" target="dRalgheijcarPViAJHjW-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="HPXyD_d4YzHwRr-22L1Q-4" value="Writes to" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="CFswmux8SoO7e5pgBnTU-8">
+          <mxGeometry x="-0.2595" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HPXyD_d4YzHwRr-22L1Q-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CFswmux8SoO7e5pgBnTU-2" target="HPXyD_d4YzHwRr-22L1Q-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HPXyD_d4YzHwRr-22L1Q-3" value="Reads from" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HPXyD_d4YzHwRr-22L1Q-2">
+          <mxGeometry x="0.1796" y="1" relative="1" as="geometry">
+            <mxPoint y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="CFswmux8SoO7e5pgBnTU-2" value="News Article Scraping" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="130" y="560" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HPXyD_d4YzHwRr-22L1Q-1" value="Reddit" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="560" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
